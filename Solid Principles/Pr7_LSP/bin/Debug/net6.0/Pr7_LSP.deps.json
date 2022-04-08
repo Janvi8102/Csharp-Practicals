@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pr7_LSP/1.0.0": {
+        "runtime": {
+          "Pr7_LSP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pr7_LSP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\bin\Debug\net6.0\Pr7_LSP.exe
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\bin\Debug\net6.0\Pr7_LSP.deps.json
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\bin\Debug\net6.0\Pr7_LSP.runtimeconfig.json
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\bin\Debug\net6.0\Pr7_LSP.dll
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\bin\Debug\net6.0\Pr7_LSP.pdb
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\obj\Debug\net6.0\Pr7_LSP.csproj.AssemblyReference.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\obj\Debug\net6.0\Pr7_LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\obj\Debug\net6.0\Pr7_LSP.AssemblyInfoInputs.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\obj\Debug\net6.0\Pr7_LSP.AssemblyInfo.cs
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\obj\Debug\net6.0\Pr7_LSP.csproj.CoreCompileInputs.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\obj\Debug\net6.0\Pr7_LSP.dll
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\obj\Debug\net6.0\refint\Pr7_LSP.dll
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\obj\Debug\net6.0\Pr7_LSP.pdb
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\obj\Debug\net6.0\Pr7_LSP.genruntimeconfig.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_LSP\obj\Debug\net6.0\ref\Pr7_LSP.dll

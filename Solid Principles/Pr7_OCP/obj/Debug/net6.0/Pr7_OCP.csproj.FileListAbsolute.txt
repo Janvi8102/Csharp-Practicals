@@ -1,0 +1,15 @@
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\bin\Debug\net6.0\Pr7_OCP.exe
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\bin\Debug\net6.0\Pr7_OCP.deps.json
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\bin\Debug\net6.0\Pr7_OCP.runtimeconfig.json
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\bin\Debug\net6.0\Pr7_OCP.dll
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\bin\Debug\net6.0\Pr7_OCP.pdb
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\obj\Debug\net6.0\Pr7_OCP.csproj.AssemblyReference.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\obj\Debug\net6.0\Pr7_OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\obj\Debug\net6.0\Pr7_OCP.AssemblyInfoInputs.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\obj\Debug\net6.0\Pr7_OCP.AssemblyInfo.cs
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\obj\Debug\net6.0\Pr7_OCP.csproj.CoreCompileInputs.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\obj\Debug\net6.0\Pr7_OCP.dll
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\obj\Debug\net6.0\refint\Pr7_OCP.dll
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\obj\Debug\net6.0\Pr7_OCP.pdb
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\obj\Debug\net6.0\Pr7_OCP.genruntimeconfig.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_OCP\obj\Debug\net6.0\ref\Pr7_OCP.dll
