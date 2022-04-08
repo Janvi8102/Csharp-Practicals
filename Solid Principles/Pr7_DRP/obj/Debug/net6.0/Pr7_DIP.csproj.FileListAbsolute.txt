@@ -1,0 +1,15 @@
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\bin\Debug\net6.0\Pr7_DIP.exe
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\bin\Debug\net6.0\Pr7_DIP.deps.json
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\bin\Debug\net6.0\Pr7_DIP.runtimeconfig.json
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\bin\Debug\net6.0\Pr7_DIP.dll
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\bin\Debug\net6.0\Pr7_DIP.pdb
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\obj\Debug\net6.0\Pr7_DIP.csproj.AssemblyReference.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\obj\Debug\net6.0\Pr7_DIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\obj\Debug\net6.0\Pr7_DIP.AssemblyInfoInputs.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\obj\Debug\net6.0\Pr7_DIP.AssemblyInfo.cs
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\obj\Debug\net6.0\Pr7_DIP.csproj.CoreCompileInputs.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\obj\Debug\net6.0\Pr7_DIP.dll
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\obj\Debug\net6.0\refint\Pr7_DIP.dll
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\obj\Debug\net6.0\Pr7_DIP.pdb
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\obj\Debug\net6.0\Pr7_DIP.genruntimeconfig.cache
+C:\Users\janvi\C#_Assignments\Solid Principles\Pr7_DRP\obj\Debug\net6.0\ref\Pr7_DIP.dll

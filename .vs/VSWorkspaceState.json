@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Abstraction",
-    "\\Practical_1"
+    "\\Practical_1",
+    "\\Solid Principles",
+    "\\Solid Principles\\Pr7_DRP"
   ],
-  "SelectedNode": "\\Abstraction\\Program.cs",
+  "SelectedNode": "\\Solid Principles\\Pr7_DRP\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
