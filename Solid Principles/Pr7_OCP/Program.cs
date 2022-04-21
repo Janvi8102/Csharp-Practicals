@@ -32,7 +32,7 @@ namespace Pr7_OCP
         {
             if (shape == null)
             {
-                throw new Exception("Can not find srea");
+                throw new Exception("Can not find area");
             }
             return shape.Area();
         }
